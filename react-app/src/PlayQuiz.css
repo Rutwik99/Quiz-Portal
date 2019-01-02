@@ -1,0 +1,37 @@
+.App-PlayQuiz {
+    text-align: center;
+    padding-top:5%;
+}
+
+.App-PlayQuiz-Header {
+    background-color: #222;
+    height: 10%;
+    padding: 1%;
+    color: white;
+}
+
+.App-PlayQuiz-Title {
+    font-size: 1.5em;
+}
+
+.Table-PlayQuiz-Hover, .Table-PlayQuiz-Rows, .Table-PlayQuiz-Head {
+    border: 1px solid black;
+}
+
+.Table-PlayQuiz-Hover {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Table-PlayQuiz-Head {
+    text-align: center;
+    padding: 15px;
+    background-color: #EA0000;
+    color: white;
+}
+
+.Table-PlayQuiz-Rows {
+    text-align: center;
+    padding: 15px;
+    background-color: #D3D3D3;
+}

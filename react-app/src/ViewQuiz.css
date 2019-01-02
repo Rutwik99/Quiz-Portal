@@ -1,0 +1,37 @@
+.App-ViewQuiz {
+    text-align: center;
+    padding-top:5%;
+}
+
+.App-ViewQuiz-Header {
+    background-color: #222;
+    height: 10%;
+    padding: 1%;
+    color: white;
+}
+
+.App-ViewQuiz-Title {
+    font-size: 1.5em;
+}
+
+.Table-ViewQuiz-Hover, .Table-ViewQuiz-Rows, .Table-ViewQuiz-Head {
+    border: 1px solid black;
+}
+
+.Table-ViewQuiz-Hover {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Table-ViewQuiz-Head {
+    text-align: center;
+    padding: 15px;
+    background-color: #EA0000;
+    color: white;
+}
+
+.Table-ViewQuiz-Rows {
+    text-align: center;
+    padding: 15px;
+    background-color: #D3D3D3;
+}

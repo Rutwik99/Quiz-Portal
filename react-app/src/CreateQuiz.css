@@ -1,0 +1,24 @@
+.App-CreateQuiz {
+    text-align: center;
+    padding-top:5%;
+}
+
+.App-CreateQuiz-Header {
+    background-color: #222;
+    height: 10%;
+    padding: 1%;
+    color: white;
+}
+
+.App-CreateQuiz-Title {
+    font-size: 1.5em;
+}
+
+.Form-CreateQuiz-Container {
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.Form-CreateQuiz-Group {
+    padding-bottom: 10%;
+}

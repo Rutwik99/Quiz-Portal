@@ -1,0 +1,36 @@
+.App-DeleteQuiz {
+    text-align: center;
+    padding-top:5%;
+}
+
+.App-DeleteQuiz-Header {
+    background-color: #222;
+    height: 10%;
+    padding: 1%;
+    color: white;
+}
+
+.App-DeleteQuiz-Title {
+    font-size: 1.5em;
+}
+
+.Table-DeleteQuiz-Hover .Table-DeleteQuiz-Rows{
+    border: 1px solid black;
+}
+
+.Table-DeleteQuiz-Hover {
+    width: 100%;
+}
+
+.Table-PlayQuiz-Head {
+    text-align: center;
+    padding: 15px;
+    background-color: #EA0000;
+    color: white;
+}
+
+.Table-DeleteQuiz-Rows {
+    text-align: center;
+    padding: 15px;
+    background-color: #D3D3D3;
+}

@@ -1,0 +1,24 @@
+.App-Login {
+    text-align: center;
+    padding-top:5%;
+}
+
+.App-Login-Header {
+    background-color: #222;
+    height: 10%;
+    padding: 1%;
+    color: white;
+}
+
+.App-Login-Title {
+    font-size: 1.5em;
+}
+
+.Form-Login-Container {
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.Form-Login-Group {
+    padding-bottom: 10%;
+}
